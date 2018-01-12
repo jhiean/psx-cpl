@@ -12,6 +12,7 @@ As I have not enough time to finish it, there is the need for many improvements 
 - ui design and missing controls
 - stabilization
 - proper logging (log4net)
+- migrate all to dotnet core to be able to use it with linux, too
 - could add proxy functionality
 
 Thanks goes to all of the developers and contributors like CTurt,Hitodama,Specter,flatz,idc,fail0verflow,...
