@@ -7,6 +7,8 @@ It was more or less a proof of concept to have one in all.
 This means this code is not polished, follows no coding standard and should not be used for any serious work as it could be harmful even if it was never intended! 
 So only use it at your own risk and if you know what you do.
 
+You might need to configure / disable your firewall because the program is listening on the ports 53 (dns), 80 (http), 5350 (elfloader http).
+
 As I have not enough time to finish it, there is the need for many improvements like:
 - code cleanup
 - ui design and missing controls
